@@ -1,2 +1,0 @@
-# rebrainme
-rebrainme.com
